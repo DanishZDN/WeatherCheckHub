@@ -3,7 +3,7 @@ This React App is Developed by :
 - Rifqi Habib Ur Rahman (00000073280) ( Front & Back End )
 - Luthfansya Haikal Ismulia () (FrontEnd)
 - Thelissa Levana Zheng () ( FrontEnd & Resource Management)
-- Muhammad Danish Zidane () ( UI Mockup )
+- Muhammad Danish Zidane (00000067541) ( UI Mockup )
 - Dimas Bagus Nandito () (UI & UX)
 - Muhammad Fabiansyah Abubakar () (UI & UX)
   
